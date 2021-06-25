@@ -15,6 +15,8 @@ scikit-learn = "^0.24.2"
 scipy = "^1.7.0"
 jupyterlab = "^3.0.16"
 ipython = "^7.24.1"
+geopy = "^2.1.0"
+folium = "^0.12.1"
 
 [tool.poetry.dev-dependencies]
 black = "^21.6b0"

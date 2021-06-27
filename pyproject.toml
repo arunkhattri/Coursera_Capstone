@@ -20,6 +20,7 @@ folium = "^0.12.1"
 beautifulsoup4 = "^4.9.3"
 lxml = "^4.6.3"
 html5lib = "^1.1"
+geocoder = "^1.38.1"
 
 [tool.poetry.dev-dependencies]
 black = "^21.6b0"
@@ -28,6 +29,7 @@ pyflakes = "^2.3.1"
 pylint = "^2.8.3"
 isort = "^5.9.1"
 pytest = "^6.2.4"
+jupyter_nbextensions_configurator = "^0.4.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

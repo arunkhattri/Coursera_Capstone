@@ -17,6 +17,9 @@ jupyterlab = "^3.0.16"
 ipython = "^7.24.1"
 geopy = "^2.1.0"
 folium = "^0.12.1"
+beautifulsoup4 = "^4.9.3"
+lxml = "^4.6.3"
+html5lib = "^1.1"
 
 [tool.poetry.dev-dependencies]
 black = "^21.6b0"
